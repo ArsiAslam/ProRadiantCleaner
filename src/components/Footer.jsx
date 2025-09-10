@@ -28,7 +28,7 @@ const Footer = () => (
           <div className="mb-6 pb-4">
             <h4 className="font-bold text-gray-800 mb-2 text-lg">Contact us</h4>
             <div className="space-y-1 text-gray-600 text-base">
-              <p>01753 428151</p>
+              <p></p>
               <p>infos.proradiantcleaners@gmail.com</p>
               <p>Cambridge, United Kingdom</p>
             </div>
