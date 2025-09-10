@@ -20,11 +20,11 @@ const Navbar = () => {
         </div>
         <div className="border-l border-gray-200 pl-6 ml-4">
           <a
-            href="tel:01753428151"
+            href=""
             className="text-blue-900 font-bold hover:text-green-500 transition-colors flex items-center gap-2"
           >
             <span className="text-xl">☎</span>
-            <span>01753 428151</span>
+            <span></span>
           </a>
         </div>
       </div>
@@ -51,11 +51,11 @@ const Navbar = () => {
             offer Facilities Management, Construction and Extreme Cleaning Services – Fully accredited to ISO 9001, 14001 and 45001 standards.
           </div>
           <a
-            href="tel:01753428151"
+            href=""
             className="text-blue-900 font-bold hover:text-green-500 transition-colors flex items-center gap-2"
           >
             <span className="text-xl">☎</span>
-            <span>01753 428151</span>
+            <span></span>
           </a>
         </div>
       )}
