@@ -24,7 +24,7 @@ const Navbar = () => {
             className="text-blue-900 font-bold hover:text-green-500 transition-colors flex items-center gap-2"
           >
             <span className="text-xl">☎</span>
-            <span></span>
+            <span>07984-960890</span>
           </a>
         </div>
       </div>
